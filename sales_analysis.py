@@ -1,6 +1,6 @@
 # ================================================
 # COMPANY SALES ANALYSIS 2024
-# Analyst: (Apna Naam Likho)
+# Analyst: (Muhammad Asad)
 # Tools: Python, Pandas, Matplotlib
 # ================================================
 
